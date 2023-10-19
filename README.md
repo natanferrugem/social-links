@@ -1,7 +1,4 @@
 # social-links
-
-
-
 <p align="center">
 Programa feito no curso "Discover" da Rocketseat sobre programação web  <br/>
 </p>
