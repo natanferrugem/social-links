@@ -1,4 +1,5 @@
-# social-links
+### social-links
+<a href="https://github.com/natanferrugem/social-links"> PROJETO FINALIZADO </a>
 <p align="center">
 Programa feito no curso "Discover" da Rocketseat sobre programação web  <br/>
 </p>
