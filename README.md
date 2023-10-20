@@ -1,5 +1,5 @@
 ### social-links
-<p aling="center">
+<p align="center">
 <a href="https://natanferrugem.github.io/social-links"> PROJETO FINALIZADO </a>
 </p>
   
