@@ -6,7 +6,7 @@
   
   :root {
     --text-color: white;
-    --bg-url: url(./assets/bg-mobile-dark.png);
+    --bg-url: url(./assets/bg-mobile-dark.jpg);
     --stroke-color: rgba(225, 225, 255, 0.5);
     --surface-color: rgba(0, 0, 0, 0.099);
     --switch-bg: url(./assets/moon-stars.svg);
@@ -14,7 +14,7 @@
   
   .light {
     --text-color: black;
-    --bg-url: url(./assets/bg-moblie-light.png);
+    --bg-url: url(./assets/bg-moblie-light.jpg);
     --stroke-color: rgba(0, 0, 0.5);
     --surface-color: rgba(0, 0, 0, 0.05);
     --switch-bg: url(./assets/sun.svg);
