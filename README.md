@@ -37,6 +37,10 @@ You can vizualize the layout here : [DESSE LINK](https://www.figma.com/community
 
 ## 📎 Certified by Rocketseat:
 
+<p align="center">
+ <a href="https://app.rocketseat.com.br/certificates/a0bf0636-73ad-4711-870d-ae061253a7f4"> CERTIFICATE </a>
+</p>
+
 ## License
 
 This project is under the MIT license.
