@@ -1,6 +1,6 @@
 ### social-links
 <p align="center">
-<a href="https://natanferrugem.github.io/social-links"> PROJECT DONE </a>
+<a href="https://natanferrugem.github.io/social-links" target="_blank"> PROJECT DONE </a>
 </p>
   
 <p align="center">
